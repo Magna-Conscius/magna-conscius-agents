@@ -1,0 +1,34 @@
+{
+  "organization": "Magna Conscius",
+  "updated_at": "2026-04-29",
+  "strategic_stack": {
+    "cash_engine": "Advisory + diagnostics + pilot training projects",
+    "authority_engine": "Content + workshops + case studies",
+    "scale_engine": "Supermarket staff training app"
+  },
+  "current_focus": {
+    "sector": "Supermarkets",
+    "offer": "Frontline behavior and emotional regulation training",
+    "stage": "Pre-first-client pilot"
+  },
+  "kpis": {
+    "meetings_booked_weekly": 0,
+    "pilot_clients_active": 0,
+    "complaint_rate_delta": null,
+    "training_completion_rate": null,
+    "mrr_usd": 0
+  },
+  "constraints": [
+    "Founder-led execution",
+    "Need first supermarket pilot case study"
+  ],
+  "agent_roster": [
+    "CEO Agent",
+    "Research Agent",
+    "Model Agent",
+    "Experiment Agent",
+    "Insight Agent",
+    "Ops Agent"
+  ]
+}
+

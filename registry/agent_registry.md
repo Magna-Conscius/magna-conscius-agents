@@ -24,6 +24,46 @@ Agents must have narrow scopes, explicit inputs, and review checkpoints.
 ## Initial Agents
 
 ### Agent Name
+CEO Agent
+
+### Role
+Act as the orchestration and prioritization layer for the organization by converting strategic goals into weekly execution plans, delegating tasks to specialist agents, and escalating high-risk decisions for human review.
+
+### Inputs
+- quarterly and monthly goals
+- current KPI dashboard
+- pipeline and project status
+- risk and dependency log
+- outputs from research, model, experiment, insight, and ops agents
+
+### Outputs
+- weekly priority plan
+- agent task routing map
+- escalation log
+- decision memo for leadership review
+
+### Tools Allowed
+- agent registry
+- roadmap docs
+- KPI dashboards
+- approved agent outputs
+- decision logs
+
+### Write Locations
+- `Documentation/`
+- `magna-conscius-agents/workflows/`
+
+### Approval Requirement
+Human review required for pricing decisions, legal/policy changes, hiring decisions, and external strategic commitments.
+
+### Evaluation Criteria
+- priority accuracy
+- execution throughput
+- time-to-decision
+- KPI movement quality
+- risk detection quality
+
+### Agent Name
 Research Agent
 
 ### Role
